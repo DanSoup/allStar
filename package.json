@@ -1,0 +1,15 @@
+{
+  "name": "allstar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "allStarTxt.js",
+  "scripts": {
+    "test": "mocha ./spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
