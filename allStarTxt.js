@@ -27,7 +27,7 @@ Hey now, you're a rock star, get the show on, get paid
 All that glitters is gold
 Only shooting stars break the mold
 Hey now, you're an all-star, get your game on, go play
-Hey now, you're a rock star, get the show, on get paid
+Hey now, you're a rock star, get the show on, get paid
 And all that glitters is gold
 Only shooting stars
 Somebody once asked could I spare some change for gas?
